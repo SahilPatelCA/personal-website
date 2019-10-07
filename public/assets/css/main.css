@@ -1980,6 +1980,7 @@
 		button:active,
 		.button:active {
 			background-color: #258cd1;
+			/* background-color: rgb(39, 34, 34); */
 		}
 
 		input[type="submit"].alt,
