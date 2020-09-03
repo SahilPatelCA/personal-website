@@ -490,6 +490,11 @@ mark,
   height: auto;
 }
 
+.img-facepic {
+  width: 50%;
+  height: auto;
+}
+
 .figure {
   display: inline-block;
 }
