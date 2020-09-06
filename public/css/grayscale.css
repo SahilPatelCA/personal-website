@@ -301,3 +301,11 @@ a:focus, a:hover {
 footer {
   padding: 5rem 0;
 }
+
+.skillbox {
+  width: 30%;
+  height: auto;
+  background: green;
+  margin-right: auto;
+  margin-left: auto;
+}
