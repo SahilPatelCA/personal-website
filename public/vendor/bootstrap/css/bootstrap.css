@@ -556,6 +556,8 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+
+  display: flex;
 }
 
 @media (min-width: 576px) {
@@ -589,6 +591,18 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
+.container-skills {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: flex;
+
+}
+
+
 
 .row {
   display: -ms-flexbox;
