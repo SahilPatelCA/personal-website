@@ -84,11 +84,7 @@
   }
 }
 
-.headshot img{
-  width: 50%;
-  height: auto;
-  border: 10px solid red;
-}
+
 
 .masthead {
   position: relative;
@@ -168,9 +164,20 @@
   background-color: #467370 !important;
 }
 
+.experience-section {
+  padding-top: 10rem;
+  background: yellow;
+}
+
+.experience-section p{
+  margin-bottom: 5rem;
+}
+
 .about-section {
   padding-top: 10rem;
-  background: linear-gradient(to bottom, #161616 0%, rgba(22, 22, 22, 0.9) 75%, rgba(22, 22, 22, 0.8) 100%);
+  background: rgb(214,112,23);
+  background: linear-gradient(90deg, rgba(214,112,23,1) 0%, rgba(226,168,59,1) 54%, rgba(17,3,3,1) 100%);
+  
 }
 
 .about-section p {
